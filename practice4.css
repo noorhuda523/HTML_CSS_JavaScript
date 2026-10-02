@@ -1,0 +1,27 @@
+#logo{ background-color: #0f1111;
+}
+.header{
+font-size: 20px;
+margin-right:150px ;
+height: 66px;
+color: white;
+text-decoration:none ;
+}
+button{ background-color: #f08804;
+color: white; }
+
+.box{ 
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+     margin-top: 50px;
+     margin-right: 50px;
+     display: inline-block;
+}
+#content{
+     height: 540px;
+}
+footer{ background-color: #0f1111;
+color: white;
+text-align: center;
+}

@@ -1,0 +1,15 @@
+#box1{
+    height: 100px;
+   width: 100px;
+   border-radius: 50%;
+   border: 10px solid  rgb(33, 7, 99) ;
+   border-top: 10px solid rgb(80, 108, 184) ;
+   animation: anime 2s ease-in  0s infinite normal ;
+   }
+   @keyframes anime{
+  from{ transform:rotate(0deg) ;}
+  to{ transform:rotate(360deg)  ;}
+
+   }
+
+

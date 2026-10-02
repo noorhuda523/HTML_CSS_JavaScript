@@ -1,0 +1,23 @@
+.box1{
+   margin: 0px;
+   padding: 0px;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+background-color: rgb(77, 77, 133);
+
+
+ height:50px;
+}
+.box2{
+ 
+  display: flex;
+  
+
+}
+a{
+    color: antiquewhite;
+    text-decoration: none;
+    
+    text-transform: capitalize;
+}
